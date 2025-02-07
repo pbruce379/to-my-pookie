@@ -1,6 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ed2be0;
+    body {
+    background-image: url('background.jpg'); /* Change to your image name */
+    background-size: cover; /* Makes the image cover the full page */
+    background-position: center;
+    background-repeat: no-repeat;
+}
     color: white;
     text-align: center;
     padding: 20px;
